@@ -1,6 +1,3 @@
-# Readme placeholder for models
-
-
 ### 📁 `models/` Directory
 
 This folder contains trained or exported machine learning models generated during the simulation of federated fraud detection.
