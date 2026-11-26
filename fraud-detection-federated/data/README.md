@@ -1,8 +1,3 @@
-# Readme placeholder for data
-
-
----
-
 ### 📁 `data/` Directory
 
 This folder contains **synthetic transaction data** used to simulate fraud detection scenarios across federated clients.
