@@ -1,6 +1,3 @@
-# Readme placeholder for src
-
-
 ### 📁 `src/` Directory
 
 This folder contains the core source code for the **fraud-detection-federated** project. It includes scripts for preprocessing data, simulating federated learning, evaluating results, and testing.
