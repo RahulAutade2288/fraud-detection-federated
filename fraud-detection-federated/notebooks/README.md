@@ -1,5 +1,3 @@
-# Readme placeholder for notebooks
-
 ### 📁 `notebooks/` Directory
 
 This folder contains Jupyter notebooks used for visualizing data, testing model outputs, and demonstrating project functionality in an interactive format.
@@ -13,7 +11,7 @@ This folder contains Jupyter notebooks used for visualizing data, testing model 
 
   * Loads and explores the synthetic transaction dataset
   * Visualizes the distribution of fraudulent vs. legitimate transactions
-  * Supports visual storytelling for EB1A or academic presentation
+  * Supports visual storytelling for presentations
 
 ---
 
