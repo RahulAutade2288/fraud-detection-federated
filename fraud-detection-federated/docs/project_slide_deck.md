@@ -41,10 +41,10 @@
 - Designed architecture and model
 - Developed code and dataset
 - Wrote tests and documentation
-- Created this GitHub repo for EB1A evidence
+- Published the project as open source on GitHub
 
 ---
 
 ## Slide 7: Contact
 - Rahul Autade | rahul.autade@ieee.org
-- GitHub: https://github.com/rahul2287/fraud-detection-federated
+- GitHub: https://github.com/RahulAutade2288/fraud-detection-federated
